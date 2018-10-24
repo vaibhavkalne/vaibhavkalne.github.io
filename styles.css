@@ -13,6 +13,9 @@ body{
     text-align: right;
     font-size: 18px;
 }
+.main-header h1{
+    margin-left: 10px;
+}
 
 /* ------------ Main Navigation ----------- */
 .main-nav{
@@ -111,7 +114,7 @@ body{
 
 }
 .main-news-article h2{
-    background: linear-gradient(to right,seagreen,black,seagreen);
+    background: linear-gradient(to right,orangered,black,orangered);
     color: white;
     text-align: center;
     padding: 10px;
